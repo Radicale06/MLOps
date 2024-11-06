@@ -4,46 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cb3a1cb-68af-4db6-98fd-ec2e49737fcd" name="Changes" comment="" />
+    <list default="true" id="85088adc-686f-4ca9-bbdd-f8e496ffca2d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Jupyter Notebook" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2oLCJalWP7qx83LyCmQOuHhQnLZ" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2oLIKKnuTqH1qfMs9l42vvhjc9v" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Aymen&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3cb3a1cb-68af-4db6-98fd-ec2e49737fcd" name="Changes" comment="" />
-      <created>1730639399335</created>
+      <changelist id="85088adc-686f-4ca9-bbdd-f8e496ffca2d" name="Changes" comment="" />
+      <created>1730642364809</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730639399335</updated>
-      <workItem from="1730639400646" duration="1151000" />
+      <updated>1730642364809</updated>
+      <workItem from="1730642366348" duration="2019000" />
+      <workItem from="1730710727897" duration="4206000" />
+      <workItem from="1730839509707" duration="4648000" />
+      <workItem from="1730887623452" duration="3170000" />
+      <workItem from="1730921500715" duration="6398000" />
     </task>
     <servers />
   </component>
